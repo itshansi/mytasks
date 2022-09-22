@@ -1,2 +1,2 @@
 # mytasks
-othingmuch
+nothingmuch
